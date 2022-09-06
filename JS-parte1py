@@ -1,0 +1,36 @@
+#integer
+10
+
+#float
+10.5
+
+type(10)
+
+#string
+"hello world"
+
+#listas/tuplas
+["norma", "luis", "ezequiel"] #--> lista osea se puede modificar
+("hola","mundo") #--> TUPLA, no se puede modificar
+
+[{
+    "name":"mati",
+    "edad":5,
+    "saldo":55.2,
+    "data":["pepe", "san"]
+}]
+
+#booleano (toma dedecisiones True o False)
+True
+False
+
+
+#DefinirVariables
+
+variable1=1
+var2="hola"
+var=True
+
+var2=False
+
+print(var2)
